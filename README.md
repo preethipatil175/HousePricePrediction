@@ -34,6 +34,7 @@ The model predicts the **house price** based on these inputs.
 
 ---
 ##🚀 How to Run the Project Locally
+
 ``` 
 1️⃣ Clone the repository
     git clone https://github.com/preethipatil175/HousePricePrediction.git
@@ -51,6 +52,7 @@ The model predicts the **house price** based on these inputs.
     After running the command, Streamlit will open the app automatically in your browser.
 ```
 ---
+
 ##File Structure
 ```
 HousePricePrediction/
