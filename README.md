@@ -34,17 +34,25 @@ The model predicts the **house price** based on these inputs.
 
 ---
 
-## 🚀 How to Use the App
+##🚀 How to Run the Project Locally
+1️⃣ Clone the repository
+git clone https://github.com/preethipatil175/HousePricePrediction.git
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/preethipatil175/HousePricePrediction.git
-2.Navigate to the project folder:
-  cd HousePricePredict
-3.Install Dependencies:
-  pip install -r requirements.txt
-4.Run the streamlit app
-  streamlit run app.py
+2️⃣ Navigate to the project directory
+cd HousePricePrediction
+
+3️⃣ Install the required dependencies
+pip install -r requirements.txt
+
+4️⃣ Run the Streamlit application
+streamlit run app.py
+
+5️⃣ View the app
+
+After running the command, Streamlit will open the app automatically in your browser.
+If not, open this URL manually:
+
+http://localhost:8501
 
 ---
 ```
