@@ -33,30 +33,25 @@ The model was trained on the California Housing dataset using these features:
 The model predicts the **house price** based on these inputs.
 
 ---
-``` 
 ##🚀 How to Run the Project Locally
+``` 
 1️⃣ Clone the repository
-```bash
-git clone https://github.com/preethipatil175/HousePricePrediction.git
+    git clone https://github.com/preethipatil175/HousePricePrediction.git
 
 2️⃣ Navigate to the project directory
-
-cd HousePricePrediction
+    cd HousePricePrediction
 
 3️⃣ Install the required dependencies
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 4️⃣ Run the Streamlit application
-streamlit run app.py
+    streamlit run app.py
 
 5️⃣ View the app
-
-After running the command, Streamlit will open the app automatically in your browser.
-If not, open this URL manually:
-
-http://localhost:8501
+    After running the command, Streamlit will open the app automatically in your browser.
 ```
 ---
+##File Structure
 ```
 HousePricePrediction/
 ├── app.py              # Streamlit app code
