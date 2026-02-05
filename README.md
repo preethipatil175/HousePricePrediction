@@ -33,7 +33,7 @@ The model was trained on the California Housing dataset using these features:
 The model predicts the **house price** based on these inputs.
 
 ---
-##🚀 How to Run the Project Locally
+🚀 How to Run the Project Locally
 
 ``` 
 1️⃣ Clone the repository
@@ -53,7 +53,7 @@ The model predicts the **house price** based on these inputs.
 ```
 ---
 
-##File Structure
+File Structure
 ```
 HousePricePrediction/
 ├── app.py              # Streamlit app code
